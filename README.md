@@ -39,8 +39,9 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ---
 
-### 🎯 Objetivos para 2026
+### 🎯 Objetivos para 2024
 
+- [ ] Dominar React e lançar projetos com ele
 - [ ] Aprender Next.js
 - [ ] Conseguir meu primeiro emprego CLT como dev
 - [ ] Contribuir para projetos open source
@@ -50,32 +51,38 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ### 📌 Projetos em destaque
 
-🔥 **Hotz Performance**
+💻 **[NXFox CPX](https://nxfoxcpx.netlify.app)**
+> Site de venda de cheat com 4 páginas completas incluindo dashboard
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
+🏙️ **[Metrópole GG](https://metropoleggfake.netlify.app)**
+> Landing page moderna para servidor de jogos
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
+🔥 **[Hotz Performance](https://hotzperformance.netlify.app)**
 > Landing page de serviço focada em conversão
 > `HTML` `CSS` `JavaScript` `Tailwind`
 
 ---
 
-🎮 **Ecstasy FiveM**
+🎮 **[Ecstasy 2.0](https://ecstasyfivemfake.netlify.app)**
 > Vitrine e loja de produtos para servidor FiveM
 > `HTML` `CSS` `JavaScript` `Tailwind`
 
 ---
 
-🐐 **Loja Goat Skins**
+🐐 **[Loja Goat Skins](https://lojagoatskins.netlify.app)**
 > Loja online de skins do jogo Goat com catálogo de produtos
 > `HTML` `CSS` `JavaScript` `Tailwind`
 
 ---
 
-🎯 **Goat Battle Royale Clone**
+🎯 **[Goat Battle Royale](https://goatbattleroyaleclone.netlify.app)**
 > Landing page para apresentação de servidor battle royale
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-💻 **NXFox CPX**
-> Site de venda de cheat com 4 páginas completas incluindo dashboard
 > `HTML` `CSS` `JavaScript` `Tailwind`
 
 ---
