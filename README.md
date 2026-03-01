@@ -68,6 +68,12 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ---
 
+📘 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)**
+> Portfólio profissional com projetos, habilidades e informações de contato
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
 🎮 **[Ecstasy 2.0](https://ecstasyfivemfake.netlify.app)**
 > Vitrine e loja de produtos para servidor FiveM
 > `HTML` `CSS` `JavaScript` `Tailwind`
