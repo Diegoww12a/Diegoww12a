@@ -39,9 +39,8 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ---
 
-### 🎯 Objetivos para 2024
+### 🎯 Objetivos para 2026
 
-- [ ] Dominar React e lançar projetos com ele
 - [ ] Aprender Next.js
 - [ ] Conseguir meu primeiro emprego CLT como dev
 - [ ] Contribuir para projetos open source
