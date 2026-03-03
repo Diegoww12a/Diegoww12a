@@ -131,7 +131,7 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
   <a href="mailto:diegoneves2021123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/diego-neves-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-jesus-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/diego_gls" target="_blank">
