@@ -50,6 +50,12 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ### 📌 Projetos em destaque
 
+💻 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)**
+> Portfólio profissional com projetos, habilidades e informações de contato
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
 💻 **[NXFox CPX](https://nxfoxcpx.netlify.app)**
 > Site de venda de cheat com 4 páginas completas incluindo dashboard
 > `HTML` `CSS` `JavaScript` `Tailwind`
@@ -68,12 +74,6 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ---
 
-📘 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)**
-> Portfólio profissional com projetos, habilidades e informações de contato
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
 🎮 **[Ecstasy 2.0](https://ecstasyfivemfake.netlify.app)**
 > Vitrine e loja de produtos para servidor FiveM
 > `HTML` `CSS` `JavaScript` `Tailwind`
@@ -88,6 +88,18 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 🎯 **[Goat Battle Royale](https://goatbattleroyaleclone.netlify.app)**
 > Landing page para apresentação de servidor battle royale
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
+📊 **[Franca Dashboard](https://franca-dashboard.netlify.app)**
+> Dashboard de gestão familiar com painel de controle e visualização de dados
+> `HTML` `CSS` `JavaScript` `Tailwind`
+
+---
+
+🏆 **[França Players](https://francarp.netlify.app)**
+> Wiki de jogadores com cards de status, rankings e perfis detalhados
 > `HTML` `CSS` `JavaScript` `Tailwind`
 
 ---
@@ -119,7 +131,7 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
   <a href="mailto:diegoneves2021123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/diego-jesus-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-neves-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/diego_gls" target="_blank">
