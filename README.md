@@ -52,7 +52,7 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 💻 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)**
 > Portfólio profissional com projetos, habilidades e informações de contato
-> `HTML` `CSS` `JavaScript` `Tailwind`
+> `HTML` `CSS` `JavaScript` `Tailwind` 
 
 ---
 
@@ -88,19 +88,19 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 🎯 **[Goat Battle Royale](https://goatbattleroyaleclone.netlify.app)**
 > Landing page para apresentação de servidor battle royale
-> `HTML` `CSS` `JavaScript` `Tailwind`
+> `HTML` `CSS` `JavaScript` `Tailwind` 
 
 ---
 
 📊 **[Franca Dashboard](https://franca-dashboard.netlify.app)**
 > Dashboard de gestão familiar com painel de controle e visualização de dados
-> `HTML` `CSS` `JavaScript` `Tailwind`
+> `HTML` `CSS` `JavaScript` `Tailwind` `React` 
 
 ---
 
 🏆 **[França Players](https://francarp.netlify.app)**
 > Wiki de jogadores com cards de status, rankings e perfis detalhados
-> `HTML` `CSS` `JavaScript` `Tailwind`
+> `HTML` `CSS` `JavaScript` `Tailwind` `React` 
 
 ---
 
