@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Diego%20Neves&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Diego%20Neves&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=a5b4fc" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Diegoww12a&color=6366f1&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
 
@@ -8,15 +8,15 @@
 
 ---
 
-### Olá, eu sou o Diego 👋
+### Olá, eu sou o Diego
 
-Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar interfaces modernas e responsivas. Aprendo rápido, entrego com qualidade e já tenho mais de 10 projetos freelance no currículo.
+Desenvolvedor **Full Stack** com 18 anos e mais de 10 projetos freelance entregues. Construo sites, landing pages e painéis sob medida — do design ao deploy.
 
-> *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+Foco em **React**, **Node** e **Tailwind CSS**, com entrega testada em aparelho e navegador de verdade antes de considerar pronto.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,87 +24,38 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
 
-### 🚀 O que estou aprendendo agora
+### Projetos em destaque
 
-- ⚛️ Aprofundando em **React** — hooks, componentes e boas práticas
-- 🟨 **JavaScript avançado** — async/await, APIs, manipulação do DOM
-- 🎨 **UI/UX Design** — princípios de design e experiência do usuário
-- 🌐 **Next.js** — o próximo passo depois do React
+📌 **[Portfólio Pessoal](https://diegoww12a.github.io/portf-lio/)** · [repositório](https://github.com/Diegoww12a/portf-lio)
+> Portfólio com apresentação, projetos e contato
+> `Vite` `Tailwind`
 
----
+📊 **[França — Painel Administrativo](https://diegoww12a.github.io/francagestao/)** · [repositório](https://github.com/Diegoww12a/francagestao)
+> Sistema full-stack: autenticação por hash bcrypt, dashboard com gráficos e banco SQLite no backend
+> `React` `TypeScript` `Node` `SQLite`
 
-### 🎯 Objetivos para 2026
+🎮 **[GOAT — Plataforma Competitiva](https://github.com/Diegoww12a/Goat2026)**
+> Portal completo com ranking de temporada, loja, perfis de jogadores e planos
+> `React` `Vite` `Tailwind`
 
-- [ ] Aprender Next.js
-- [ ] Conseguir meu primeiro emprego CLT como dev
-- [ ] Contribuir para projetos open source
-- [ ] Chegar em 20 projetos freelance entregues
-
----
-
-### 📌 Projetos em destaque
-
-💻 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)**
-> Portfólio profissional com projetos, habilidades e informações de contato
-> `HTML` `CSS` `JavaScript` `Tailwind` 
-
----
-
-💻 **[NXFox CPX](https://nxfoxcpx.netlify.app)**
-> Site de venda de cheat com 4 páginas completas incluindo dashboard
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-🏙️ **[Metrópole GG](https://metropoleggfake.netlify.app)**
-> Landing page moderna para servidor de jogos
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-🔥 **[Hotz Performance](https://hotzperformance.netlify.app)**
+⚡ **[Hotz Performance](https://diegoww12a.github.io/TrindaBoost/)** · [repositório](https://github.com/Diegoww12a/TrindaBoost)
 > Landing page de serviço focada em conversão
-> `HTML` `CSS` `JavaScript` `Tailwind`
+> `Vite` `Tailwind`
+
+🧪 **[Nxfox](https://diegoww12a.github.io/Nxfox/)** · [repositório](https://github.com/Diegoww12a/Nxfox)
+> Projeto **fictício de estudo** — landing page e loja demonstrativa. Nada é vendido ou distribuído.
+> `Vite` `Tailwind`
 
 ---
 
-🎮 **[Ecstasy 2.0](https://ecstasyfivemfake.netlify.app)**
-> Vitrine e loja de produtos para servidor FiveM
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-🐐 **[Loja Goat Skins](https://lojagoatskins.netlify.app)**
-> Loja online de skins do jogo Goat com catálogo de produtos
-> `HTML` `CSS` `JavaScript` `Tailwind`
-
----
-
-🎯 **[Goat Battle Royale](https://goatbattleroyaleclone.netlify.app)**
-> Landing page para apresentação de servidor battle royale
-> `HTML` `CSS` `JavaScript` `Tailwind` 
-
----
-
-📊 **[Franca Dashboard](https://franca-dashboard.netlify.app)**
-> Dashboard de gestão familiar com painel de controle e visualização de dados
-> `HTML` `CSS` `JavaScript` `Tailwind` `React` 
-
----
-
-🏆 **[França Players](https://francarp.netlify.app)**
-> Wiki de jogadores com cards de status, rankings e perfis detalhados
-> `HTML` `CSS` `JavaScript` `Tailwind` `React` 
-
----
-
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Diegoww12a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0c0c0e&title_color=6366f1&icon_color=a5b4fc&text_color=eeeef0"/>
@@ -117,15 +68,7 @@ Tenho 18 anos e sou desenvolvedor front-end freelance apaixonado por criar inter
 
 ---
 
-### 🐍 Minhas contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Diegoww12a/Diegoww12a/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-### 📬 Onde me encontrar
+### Onde me encontrar
 
 <div align="left">
   <a href="mailto:diegoneves2021123@gmail.com">
