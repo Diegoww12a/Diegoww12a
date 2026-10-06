@@ -33,23 +33,23 @@ Foco em **React**, **Node** e **Tailwind CSS**, com entrega testada em aparelho 
 
 ### Projetos em destaque
 
-📌 **[Portfólio Pessoal](https://diegoww12a.github.io/portf-lio/)** · [repositório](https://github.com/Diegoww12a/portf-lio)
+📌 **[Portfólio Pessoal](https://port-foliodiego.netlify.app/)** · [repositório](https://github.com/Diegoww12a/portf-lio)
 > Portfólio com apresentação, projetos e contato
 > `Vite` `Tailwind`
 
-📊 **[França — Painel Administrativo](https://diegoww12a.github.io/francagestao/)** · [repositório](https://github.com/Diegoww12a/francagestao)
+📊 **[França — Painel Administrativo](https://francagestao.netlify.app/)** · [repositório](https://github.com/Diegoww12a/francagestao)
 > Sistema full-stack: autenticação por hash bcrypt, dashboard com gráficos e banco SQLite no backend
 > `React` `TypeScript` `Node` `SQLite`
 
-🎮 **[GOAT — Plataforma Competitiva](https://github.com/Diegoww12a/Goat2026)**
+🎮 **[GOAT — Plataforma Competitiva](https://goatbattleroyalefake2026.netlify.app/)** · [repositório](https://github.com/Diegoww12a/Goat2026)
 > Portal completo com ranking de temporada, loja, perfis de jogadores e planos
 > `React` `Vite` `Tailwind`
 
-⚡ **[Hotz Performance](https://diegoww12a.github.io/TrindaBoost/)** · [repositório](https://github.com/Diegoww12a/TrindaBoost)
+⚡ **[Hotz Performance](https://hotzperformance.netlify.app/)** · [repositório](https://github.com/Diegoww12a/TrindaBoost)
 > Landing page de serviço focada em conversão
 > `Vite` `Tailwind`
 
-🧪 **[Nxfox](https://diegoww12a.github.io/Nxfox/)** · [repositório](https://github.com/Diegoww12a/Nxfox)
+🧪 **[Nxfox](https://nxfoxcpx.netlify.app/)** · [repositório](https://github.com/Diegoww12a/Nxfox)
 > Projeto **fictício de estudo** — landing page e loja demonstrativa. Nada é vendido ou distribuído.
 > `Vite` `Tailwind`
 
